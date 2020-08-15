@@ -1,6 +1,6 @@
 {
   "name": "sa-webjssdk-application",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "神策 web js sdk 应用",
   "main": "",
   "scripts": {
