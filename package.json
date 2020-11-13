@@ -1,7 +1,7 @@
 {
-  "name": "sa-webjssdk-application",
-  "version": "0.2.3",
-  "description": "神策 web js sdk 应用",
+  "name": "sf-sdk-popup",
+  "version": "0.2.4",
+  "description": "神策 sf 弹窗 sdk",
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
